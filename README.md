@@ -95,3 +95,4 @@ https://youtu.be/SVOS7w1R5TE
    ```bash
    python3 converse.py
    ```
+By Ethan Diec, Jacob Rhodes, and Guangyi Liu during the 2024 AWS x INRIX Hackathon
